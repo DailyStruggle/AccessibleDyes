@@ -1,0 +1,41 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		[
+			{
+				"item": "minecraft:sweet_berries"
+			},
+			{
+				"item": "minecraft:red_mushroom"
+			}
+		],
+		[
+			{
+				"item": "minecraft:sweet_berries"
+			},
+			{
+				"item": "minecraft:red_mushroom"
+			}
+		],
+		[
+			{
+				"item": "minecraft:sweet_berries"
+			},
+			{
+				"item": "minecraft:red_mushroom"
+			}
+		],
+		[
+			{
+				"item": "minecraft:sweet_berries"
+			},
+			{
+				"item": "minecraft:red_mushroom"
+			}
+		]
+	],
+	"result": {
+		"item": "minecraft:red_dye",
+		"count": 2
+	}
+}

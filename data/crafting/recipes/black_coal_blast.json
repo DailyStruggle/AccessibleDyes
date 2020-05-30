@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:coal"
+    },
+    "result": "minecraft:black_dye",
+    "experience": 0.15,
+    "cookingtime": 100
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:redstone"
+    },
+    "result": "minecraft:red_dye",
+    "experience": 0.15,
+    "cookingtime": 100
+}
