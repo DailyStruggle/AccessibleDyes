@@ -4,4 +4,4 @@ This datapack adds various crafting, smelting, and smoking recipes to give the p
 ## Reduces flower farm usage on servers
 by adding another route to get dyes, fewer players will use flower farms. 
 
-By extent, fewer shifting floor farms means more tps.
+By extent, fewer shifting floor farms means less tps lag.
